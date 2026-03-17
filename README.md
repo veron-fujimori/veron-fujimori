@@ -1,5 +1,3 @@
-# Veron Fujimori
-
 Subject Coordinator and Data Science undergraduate with a deep interest in
 how AI systems can be designed to reason, act, and adapt autonomously.
 
